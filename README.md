@@ -1,3 +1,3 @@
 # blue
 
-Testing git.  n00b.
+Testing git.  New to this...
